@@ -1,6 +1,6 @@
 FROM node:14
 
-WORKDIR /front-end
+WORKDIR /app
 
 EXPOSE 3000
 
