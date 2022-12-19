@@ -1,6 +1,6 @@
 FROM mjgargani/puppeteer:trybe1.0
 
-WORKDIR /app
+WORKDIR /tests
 
 ADD node_modules.tar.gz .
 
